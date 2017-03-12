@@ -1,0 +1,8 @@
+com\richi\springmvc\configuration\CORSFilter.class
+com\richi\springmvc\model\User.class
+com\richi\springmvc\configuration\MiInitializer.class
+com\richi\springmvc\configuration\SpringConfiguration.class
+com\richi\springmvc\service\UserServiceImpl.class
+com\richi\springmvc\controller\IndexController.class
+com\richi\springmvc\controller\UserRestController.class
+com\richi\springmvc\service\UserService.class
